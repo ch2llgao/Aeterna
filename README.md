@@ -4,7 +4,7 @@
 
 ---
 
-## 🧬 How Aeterna Addresses the Project Requirements & Feedback
+## 🧬 How Aeterna works
 
 ### 1. Smart Contract Feature & Capital Efficiency 
 Instead of forcing users to manually interact with a "dead man's switch contract" like a chore, **Aeterna is designed as a Smart Contract layer**.  
