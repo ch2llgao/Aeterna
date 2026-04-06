@@ -1,6 +1,5 @@
 ﻿# Aeterna: Yield-Bearing Dead Man's Switch
 
-> **Hackathon / Course Final Deliverable**
 > *An un-opinionated, capital-efficient, trustless smart contract extension for securing dormant digital assets.*
 
 ---
